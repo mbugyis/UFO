@@ -13,6 +13,7 @@ Entering information in either one bar or several is perfectly okay.
 1. Enter information in any of the bars (Date, City, State, Country, Shape)
 2. Select the "Search" button
 
+[Search Example](
 
 ## Summary
 
